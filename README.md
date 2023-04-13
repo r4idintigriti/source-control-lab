@@ -1,3 +1,3 @@
 # Learning GitOps at U2U
  
-This is the coolest project!
+This is the best project!
